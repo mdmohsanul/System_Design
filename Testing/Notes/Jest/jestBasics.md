@@ -1,0 +1,5 @@
+# Jest
+
+- Jest is a javascript testing framework
+
+- Jest is a test runner that finds tests, run the tests, determines whether the tests passed or failed and reports it back in a human readable manner.
