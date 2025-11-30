@@ -38,3 +38,9 @@
 - The moment browser sees the script tag it stop the parsing because Js has capability of manipulating the DOM and CSSOM.
 
 - JavaScript will be halted until CSSOM is ready
+
+- Step 7 -> Style - Layout - Paint - Composite
+
+# Rendering Blocks are 
+- CSS files 
+- JavaScript Files

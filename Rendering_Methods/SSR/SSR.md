@@ -17,13 +17,6 @@ example - LinkedIn job listing page , ecommerce product listing page
 - Search engines can now easily index the server-rendered content, solving our SEO problem.
 - Users see actual HTML content right away instead of staring at a black screen or loading spinner.
 
-# Hydration 
-
-- During hydration, React takes control in the browser and reconstructs the component tree in memory, using the server-rendered HTML as a blueprint.
-
-- It carefully maps out where all the interactive elements should go, then hooks up the javascript logic
-
-- This involves initializing application state, adding click, mouseover handlers and setting up all the dynamic features needed for a full interactive user experience.
 
 
 # Categorized in two main category
